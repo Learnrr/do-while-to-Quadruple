@@ -1,0 +1,9 @@
+﻿  Analyze.cpp
+C:\Users\fcg\source\repos\Project4\Project4\Analyze.cpp(60,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\fcg\source\repos\Project4\Project4\Analyze.cpp(440,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\fcg\source\repos\Project4\Project4\Analyze.cpp(450,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\fcg\source\repos\Project4\Project4\Analyze.cpp(459,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Grammar.cpp
+  正在生成代码...
+LINK : warning LNK4012: 值“X64/debug”无效，必须是“ARM, ARM64, ARM64X, EBC, X64, or X86”；已忽略选项
+  Project4.vcxproj -> C:\Users\fcg\source\repos\Project4\x64\Debug\Project4.exe
